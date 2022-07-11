@@ -1,0 +1,65 @@
+.main {
+    display: flex;
+    justify-content: center;
+    /*background: #000028;*/
+}
+
+.card {
+    width: 400px;
+    height: 610px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.height1 {
+    height: 145px;
+}
+
+.height2 {
+    height: 300px;
+}
+
+.width1 {
+    width: 400px;
+}
+
+.width2 {
+    width: 130px;
+}
+
+.color1 {
+    background: #288ce5;
+}
+
+.color2 {
+    background: aqua;
+}
+
+.second {
+    display: flex;
+}
+
+.margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.margin2 {
+    margin: 10px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.radius {
+    border-radius: 5px;
+}
+
+p {
+    font-family: fantasy;
+    color: #000028;
+}

@@ -1,0 +1,41 @@
+.icon {
+    font-size: 50px;
+    width: 100px;
+}
+
+.main {
+    display: flex;
+    box-sizing: border-box;
+    height: 300px;
+    width: 1000px;
+    background: silver;
+}
+
+.block {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    background: #51ff00;
+    border-radius: 6px;
+}
+
+.size_block {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.margin {
+    margin: 10px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+.batia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

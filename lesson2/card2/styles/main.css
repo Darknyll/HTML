@@ -1,0 +1,64 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 200px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background: #e453ff;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block {
+    width: 200px;
+    height: 80px;
+}
+
+.text2 {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+button {
+    width: 75%;
+    height: 50%;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.border {
+    border: 3px solid #590d60;
+    border-right: 5px solid #590d60;
+}
+h3 {
+    margin: 3px;
+}
+p {
+    text-align: center;
+}
+.block2 {
+    width: 200px;
+    height: 22px;
+}
+.block3 {
+    width: 200px;
+    height: 55px;
+}
+.icon {
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+}

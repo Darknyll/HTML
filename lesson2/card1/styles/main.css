@@ -1,0 +1,49 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 200px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background: #55cce5;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block {
+    width: 200px;
+    height: 80px;
+}
+
+.text2 {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+button {
+    width: 75%;
+    height: 50%;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.border {
+    border: 3px solid red;
+}
+h3 {
+    margin: 3px;
+}
+p {
+    text-align: center;
+}
